@@ -1,3 +1,5 @@
+### This repo is obsolete, see new rust version of hastic-server [https://github.com/hastic/hastic]
+
 <p align="center">
   <a href=#hastic-server->
     <img width="auto" align="middle" height="120px" src="https://github.com/hastic/hastic-server/blob/master/images/hastic_server.png" />

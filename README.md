@@ -1,4 +1,4 @@
-### This repo is obsolete, see new rust version of [hastic](https://github.com/hastic/hastic)
+### This repo is obsolete, see new rust version of [hastic]([https://github.com/hastic/hastic](https://code.corpglory.net/hastic/hastic))
 
 <p align="center">
   <a href=#hastic-server->
